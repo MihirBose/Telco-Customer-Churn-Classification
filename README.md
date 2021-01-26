@@ -1,9 +1,9 @@
 # Telco-Customer-Churn-Prediction
 
-# Context
+## Context
 "Predict behavior to retain customers. You can analyze all relevant customer data and develop focused customer retention programs." [IBM Sample Data Sets]
 
-# Content
+## Content
 Each row represents a customer, each column contains customer’s attributes described on the column Metadata.
 
 The data set includes information about:
